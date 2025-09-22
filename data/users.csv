@@ -1,0 +1,3 @@
+"userPrincipalName","displayName","givenName","surname","department","title","managerUPN","status","tempPassword","createdDate"
+"ajohnson@corp.local","Alice Johnson","Alice","Johnson","Finance","Analyst","mscott@corp.local","Disabled","2hGY0nPymA3?","2025-09-21"
+"bwilliams@corp.local","Bob Williams","Bob","Williams","IT","Support Tech","rgeller@corp.local","Active","^iZDasoDvD*6","2025-09-21"

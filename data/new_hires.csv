@@ -1,0 +1,3 @@
+givenName,surname,department,title,managerUPN,primaryGroup
+Alice,Johnson,Finance,Analyst,mscott@corp.local,Finance.Read
+Bob,Williams,IT,Support Tech,rgeller@corp.local,IT.Helpdesk

@@ -1,0 +1,4 @@
+groupName,description,requiresApproval,isSensitive
+Finance.Read,Read-only finance access,false,true
+IT.Helpdesk,Helpdesk queue,false,false
+HR.PayrollAdmin,Payroll admin access,true,true
